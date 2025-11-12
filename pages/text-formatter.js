@@ -1,6 +1,6 @@
 import {
     formatCol
-} from './textFormat.js';
+} from '../textFormat.js';
 
 class TextFormatter extends HTMLElement {
     constructor() {
